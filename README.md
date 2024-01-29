@@ -6,3 +6,4 @@ This project was created for two purposes:
 ## References
 
 - [Firebase Auth with React | Protected Routes, Router v6, Context API](https://www.youtube.com/watch?v=77pemM2hwbc)
+- [Google Authentication With React JS & Firebase - Sign In With Google - Firebase v9](www.youtube.com/watch?v=cZAnibwI9u8)
